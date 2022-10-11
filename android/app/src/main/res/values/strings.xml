@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-community-barcode-scanner-prepare-bug</string>
+    <string name="title_activity_main">capacitor-community-barcode-scanner-prepare-bug</string>
+    <string name="package_name">com.hrafnkellbaldurs.capacitorcommunitybarcodescannerpreparebug</string>
+    <string name="custom_url_scheme">com.hrafnkellbaldurs.capacitorcommunitybarcodescannerpreparebug</string>
+</resources>
